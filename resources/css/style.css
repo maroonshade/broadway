@@ -18,3 +18,35 @@ h1 {
 .title {
   background-image: url(../images/the-flatiron-building.png);
 }
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.secondary {
+  font-size: 23px;
+  font-size: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+
+}
+
+#process p {
+  font-size: 14px;
+}
+
+.support p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+.footer p {
+  font-size: 11px;
+  color: white;
+}
